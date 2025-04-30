@@ -1,0 +1,1 @@
+# Home-stock-management-system
